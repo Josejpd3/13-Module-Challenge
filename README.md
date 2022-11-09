@@ -36,4 +36,4 @@ nodemon server.js
 7. Interact with data through https requests
 
 
-![E-commerce Back End](./imgs/e-commerce_back_end.jpg)
+![E-commerce Back End](./Develop/imgs/e-commerce_back_end.jpg)
